@@ -1,8 +1,6 @@
 {
   "name": "portfolio-vuepress",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:build": "vuepress build docs",
     "site:build": "vuepress build portfolio",
     "site:develop": "vuepress dev portfolio"
   },
