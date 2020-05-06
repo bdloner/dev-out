@@ -5,9 +5,14 @@
 
     <div class="container">
 
+      <!-- Homepage -->
+      <div v-if="$route.path === '/'" class="home-header-banner">
+        <Content />
+      </div>
+
       <!-- Works list -->
       <div
-        v-if="$route.path === '/'"
+        v-if="$route.path === '/works/'"
         :style="{
           marginTop: '14vw'
         }"
