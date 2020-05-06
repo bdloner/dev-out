@@ -7,12 +7,12 @@ module.exports = {
     logo: config.logo,
     footer: config.footer,
     nav: config.navigation,
-    permalink: '/:slug',
   },
   head: [
     ['link', { rel: "icon", href: config.favicon }]
   ],
   markdown: {
+    permalink: '/:slug',
     anchor: {
       permalink: false
     }
