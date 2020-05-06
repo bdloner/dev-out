@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<style lang="sass">
+<style lang="scss">
     @mixin ms(
         $cssClass: 'ms-container',
         $slider-length: 400px,
