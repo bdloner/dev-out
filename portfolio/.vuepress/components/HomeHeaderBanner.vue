@@ -516,7 +516,7 @@ a {
 
 <script>
 
-import MomentumSlider from 'momentum-slider';
+var MomentumSlider = require("@scope/momentum-slider");
 
 export default {
   mounted: function() {
