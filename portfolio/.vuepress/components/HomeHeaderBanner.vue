@@ -515,6 +515,9 @@ a {
 </style>
 
 <script>
+
+import MomentumSlider from 'momentum-slider';
+
 export default {
   mounted: function() {
     var msImages = new MomentumSlider({
