@@ -141,7 +141,6 @@
 (function() {
 
     var slidersContainer = document.querySelector('.sliders-container');
-Q
     // Initializing the numbers slider
     var msNumbers = new MomentumSlider({
         el: slidersContainer,
