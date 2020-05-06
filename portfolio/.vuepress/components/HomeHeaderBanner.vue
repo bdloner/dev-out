@@ -516,10 +516,10 @@ a {
 
 <script>
 
-var MomentumSlider = require("momentum-slider");
-
 export default {
   mounted: function() {
+    var MomentumSlider = require("momentum-slider");
+    
     var msImages = new MomentumSlider({
       // Element to append the slider
       el: '.sliders-container',
