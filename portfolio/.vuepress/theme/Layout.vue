@@ -129,6 +129,7 @@
 
   .container {
     padding: 0 5vw;
+    background-color: #1d2125;
   }
 
   .journal-list, .single-journal {
