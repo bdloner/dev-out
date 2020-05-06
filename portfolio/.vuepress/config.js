@@ -13,7 +13,7 @@ module.exports = {
   ],
   markdown: {
     anchor: {
-      permalink: false
+      permalink: '/:slug'
     }
   }
 };
