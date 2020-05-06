@@ -2,6 +2,7 @@ const config = require('../config.json');
 module.exports = {
   title: config.title,
   description: config.description,
+  permalink: '/:slug',
   base: "/",
   themeConfig: {
     logo: config.logo,
@@ -13,7 +14,7 @@ module.exports = {
   ],
   markdown: {
     anchor: {
-      permalink: '/:slug'
+      permalink: false
     }
   }
 };
