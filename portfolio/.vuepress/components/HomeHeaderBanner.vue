@@ -110,6 +110,8 @@
 
 </style>
 
+<script src="../libs/momentum-slider.js"></script>
+
 <script>
 
 // Initializing the images slider
