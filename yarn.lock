@@ -5261,6 +5261,11 @@ mkdirp@0.3.0:
   dependencies:
     minimist "^1.2.5"
 
+momentum-slider@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/momentum-slider/-/momentum-slider-0.0.8.tgz#d7aa75114224a5ed37d7577c2b3deb6327dac383"
+  integrity sha512-OoIjHUerVsyfE0pxxavffz7AW489Kt0N8JDpKhIGY9LTFpKj+CLolDvvY/dx6CbipKbNRQCiKnvxQVcyp0lSNg==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -7386,9 +7391,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
