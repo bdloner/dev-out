@@ -5261,6 +5261,11 @@ mkdirp@0.3.0:
   dependencies:
     minimist "^1.2.5"
 
+momentum-slider@0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/momentum-slider/-/momentum-slider-0.0.8.tgz#d7aa75114224a5ed37d7577c2b3deb6327dac383"
+  integrity sha512-OoIjHUerVsyfE0pxxavffz7AW489Kt0N8JDpKhIGY9LTFpKj+CLolDvvY/dx6CbipKbNRQCiKnvxQVcyp0lSNg==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -8556,9 +8561,9 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
